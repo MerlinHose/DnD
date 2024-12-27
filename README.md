@@ -1,4 +1,4 @@
-# ![<img src="https://img.icons8.com/?size=256&id=104704&format=png" width="50" height="50"/>]() Dungeons & Dragons
+# [<img src="https://img.icons8.com/?size=256&id=104704&format=png" width="50" height="50"/>]() Dungeons & Dragons
 
 ---
 
