@@ -10,9 +10,22 @@
 
 # 📖 Geschichte
 
-[Der Start in eine neue Welt](https://raw.githubusercontent.com/MerlinHose/DnD/85e49a243db2d757a37e24c78609ab986ea35bc7/Der%20Start%20in%20eine%20neue%20Welt.pdf)
+## Der Start in eine neue Welt
+### Kapitel 1: Ankunft in Drosgar
+Die Möwen kreischten laut, während das Boot durch die glitzernden Wellen auf den Hafen von
+Drosgar zuhielt. Die Luft war erfüllt vom Salz des Meeres und dem fernen Klang von Hämmern
+und Rufen, die vom geschäftigen Kai herüberdrangen. Tajona stand an der Reling und
+beobachtete die Annäherung an die Stadt. Ihre Kapuze war tief ins Gesicht gezogen, und die
+Brise ließ einige blaue Haarsträhnen herauswehen. Bonbon, ihre kleine Maus, schlüpfte aus
+einer Tasche ihres Umhangs, schnupperte kurz an der salzigen Luft und verzog sich dann
+wieder in die Wärme ihres Verstecks.
+Neben ihr lehnte ein Zwerg mit kräftigem Körperbau und einer Laute auf dem Rücken lässig am
+Geländer. Sein Blick wanderte interessiert über die Schiffe, die dicht an dicht im Hafen lagen.
+Die Stadt vor ihnen wirkte chaotisch, aber lebendig. Auf den schiefen Häusern türmten sich
+schmale Schornsteine, aus denen dünne Rauchfahnen aufstiegen, und die Straßen waren
+voller Händler, Träger und Seeleute.
 
-Um die Geschichte zu lesen, klicke auf den obigen Link. Das PDF wird in einem neuen Tab geöffnet.
+[Weiter lesen...](https://github.com/MerlinHose/DnD/blob/main/Der%20Start%20in%20eine%20neue%20Welt.pdf)
 
 # 🖋️ Ersteller
 
